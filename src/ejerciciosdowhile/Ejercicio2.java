@@ -1,4 +1,4 @@
-package ejercicioswhile;
+package ejerciciosdowhile;
 
 public class Ejercicio2 {
 

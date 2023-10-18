@@ -1,4 +1,4 @@
-package ejercicioswhile;
+package ejerciciosdowhile;
 import java.util.Scanner;
 
 public class Ejercicio3 {
