@@ -11,8 +11,13 @@ public class Ejercicio3 {
 		System.out.print("Introduzca un valor entero: ");
 		userVal = sc.nextInt();
 		
+		userVal--;
+		
 		do {
 			System.out.print(++i + "+");
+			if(i == userVal) {
+				System.out.print(++i);
+			}
 		} while(i < userVal);
 		
 		sc.close();
